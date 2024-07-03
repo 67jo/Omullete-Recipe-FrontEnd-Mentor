@@ -1,0 +1,56 @@
+body {
+  background-color: #f3e5d8;
+}
+#Recipe {
+  margin-left: 80px;
+  margin-right: 80px;
+  width: 700px;
+  border-radius: 20px;
+  background-color: white;
+}
+div {
+  margin-left: 25px;
+}
+@font-face {
+  font-family: Outfit;
+  src: url("../font/outfit/Outfit-VariableFont_wght.ttf") format(truetype);
+}
+@font-face {
+  font-family: Young;
+  src: url("../font/young-serif/YoungSerif-Regular.ttf") format(truetype);
+}
+.foto {
+  width: 655px;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+.prep-font.prep-radius {
+  background-color: hsl(331, 82%, 94%);
+  border-radius: 10px;
+  width: 655px;
+}
+#titulo2 {
+  font-family: "Outfit", Times, serif;
+  font-size: 20px;
+  margin-left: 10px;
+}
+.titulos {
+  font-family: "Young", "Arial Narrow", Arial, sans-serif;
+}
+.color {
+  color: #6b3b35;
+}
+.color2 {
+  color: rgb(078, 030, 050);
+}
+.font {
+  font-family: "Outfit", Courier, monospace;
+  color: #524a45;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
